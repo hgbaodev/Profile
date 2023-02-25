@@ -1,3 +1,3 @@
 # Profile
- HTML-CSS-JASCIPT
+ HTML-CSS
 ![alt text](./profile.jpeg)
